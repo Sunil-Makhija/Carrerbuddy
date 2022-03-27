@@ -35,7 +35,7 @@ def Carrerchoices(update: Update, context: CallbackContext):
   
 def jtpURL(update: Update, context: CallbackContext):  
     update.message.reply_text(  
-        "URL to the official website => https://www.javatpoint.com/"  
+        ""  
         )  
   
 def unknownCommmand(update: Update, context: CallbackContext):  
