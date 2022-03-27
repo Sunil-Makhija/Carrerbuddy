@@ -25,12 +25,12 @@ def gmailURL(update: Update, context: CallbackContext):
   
 def Carrercouncelling(update: Update, context: CallbackContext):  
     update.message.reply_text(  
-        "Link for the YouTube => https://www.youtube.com/"  
+        ""  
         )  
   
 def Carrerchoices(update: Update, context: CallbackContext):  
     update.message.reply_text(  
-        "1. Charted Accountant \n 2. Finance/Export Manager \n 3. Computer / Software Engineer \n 4. Doctor \n 5.  IAS/IPS \n 6. Lawyers/ Advocate \n 7. Lecturer \n 8. Businessmen \n 9. Sports Person \n 10.  Army"  
+        "1. Charted Accountant \n https://www.youtube.com/watch?v=HoWuwbEybOI \n 2. Finance/Export Manager \n https://www.youtube.com/watch?v=5XILI2TnrPk \n 3. Computer / Software Engineer \n https://www.youtube.com/watch?v=qjoK53K2qUQ \n 4. Doctor \n https://www.youtube.com/watch?v=r7TkFID3Jkc \n 5.  IAS/IPS \n https://www.youtube.com/watch?v=t851Pa_JeeA \n 6. Lawyers/ Advocate \n https://www.youtube.com/watch?v=e0oe6S0A6Pk \n 7. Lecturer \n https://www.youtube.com/watch?v=hNNSHKtsyWw \n 8. Businessmen \n https://www.youtube.com/watch?v=1ZeXaURKjZI \n 9. Sports Person \n https://www.youtube.com/watch?v=7lwoUf6nevA \n 10.  Army \n https://www.youtube.com/watch?v=QxKdIEcqgWw"  
         )  
   
 def jtpURL(update: Update, context: CallbackContext):  
